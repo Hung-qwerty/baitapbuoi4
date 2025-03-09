@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    line-height: 1.7;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.content {
+    line-height: 1.7;
+    color: #444;
+}
+.example {
+    background-color: #D9EEE1;
+    padding: 15px;
+    border-left: 6px solid #04AA6D;
+    margin-top: 20px;
+}
