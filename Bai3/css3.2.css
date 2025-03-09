@@ -1,0 +1,17 @@
+.color-box {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    margin: 10px;
+    color: white;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
